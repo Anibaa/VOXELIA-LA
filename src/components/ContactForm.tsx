@@ -108,7 +108,7 @@ export default function ContactForm() {
             WebkitBackgroundClip: 'text',
             WebkitTextFillColor: 'transparent'
           }}>
-            Formulaire de contact
+            Contactez-nous
           </h2>
         </motion.div>
 
